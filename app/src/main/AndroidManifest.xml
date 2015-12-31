@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zapper.macronesia" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".selectScreen" >
+        </activity>
+        <activity android:name=".credits" >
+        </activity>
+        <activity android:name=".gamepage1" >
+        </activity>
+        <activity android:name=".graphics" >
+        </activity>
+        <activity android:name=".hdgamepage1" >
+        </activity>
+        <activity android:name=".choice1" >
+        </activity>
+        <activity android:name=".hdchoice1" >
+        </activity>
+        <activity android:name=".gamepage2" >
+        </activity>
+        <activity android:name=".hdgamepage2" >
+        </activity>
+        <activity android:name=".choice2" >
+        </activity>
+        <activity android:name=".hdchoice2" >
+        </activity>
+        <activity android:name=".gamepage3" >
+        </activity>
+        <activity android:name=".hdgamepage3" >
+        </activity>
+        <activity android:name=".badend" >
+        </activity>
+        <activity android:name=".hdbadend" >
+        </activity>
+        <activity android:name=".goodend" >
+        </activity>
+        <activity android:name=".hdgoodend" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Macronesia</string>
+    <string name="response1">Finally some good news! Good work crew!</string>
+    <string name="response2">Just tell me when we get there.</string>
+    <string name="response3">You are a fool, Kai. We are far from famous right now!</string>
+    <string name="response4">Salutations stranger! I am a guest in your country. </string>
+    <string name="response5">Eh brah, I like dolla! I\'m not looking for a fight.</string>
+    <string name="response6">Stand and deliver, savage!</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="title_activity_game_page2">GamePage2</string>
+    <string name="title_activity_choice2">Choice2</string>
+    <string name="title_activity_game_page3">GamePage3</string>
+    <string name="title_activity_bad_end">BadEnd</string>
+    <string name="title_activity_good_end">GoodEnd</string>
+</resources>
